@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/stanley_ngolua" target="blank"><img src="https://img.shields.io/twitter/follow/stanley_ngolua?logo=twitter&style=for-the-badge" alt="stanley_ngolua" /></a> </p>
 
-- 🌱 I’m currently learning **computer vision**
-
 - 💬 Ask me about **Data science**
 
 - 📫 How to reach me **ngoluabundi@gmail.com**
