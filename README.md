@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Ngolua Stanley</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Stanley</h1>
+<h3 align="center">A Senior Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngoluastanley&label=Profile%20views&color=0e75b6&style=flat" alt="ngoluastanley" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stanley_ngolua" target="blank"><img src="https://img.shields.io/twitter/follow/stanley_ngolua?logo=twitter&style=for-the-badge" alt="stanley_ngolua" /></a> </p>
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Software Engineering,Data Science and Machine Learning**
 
 - 📫 How to reach me **ngoluabundi@gmail.com**
 
