@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/stanley_ngolua" target="blank"><img src="https://img.shields.io/twitter/follow/stanley_ngolua?logo=twitter&style=for-the-badge" alt="stanley_ngolua" /></a> </p>
 
-- 💬 Ask me about **Software Engineering(Full Stack),Data Science, Machine Learning, DevOps and ML Ops**
+- 💬 Ask me about **Software Engineering(Full Stack),Data Engineering,Data Science, Machine Learning, DevOps and ML Ops**
 
 - 📫 How to reach me **ngoluabundi@gmail.com**
 
